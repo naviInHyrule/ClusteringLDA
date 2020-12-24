@@ -1,0 +1,13 @@
+harina|leche|huevo
+mermelada|pan|mantequilla
+mermelada|pan|mantequilla
+harina|leche|huevo
+zanahoria|verdura|papa
+harina|leche|huevo
+zanahoria|verdura|papa
+mermelada|pan|mantequilla
+harina|leche|pan|mantequilla
+pan|mantequilla
+harina|leche
+zanahoria|verdura|papa
+harina|leche|huevo

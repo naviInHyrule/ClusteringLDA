@@ -1,0 +1,10 @@
+huevo 0
+leche 1
+harina 2
+mantequilla 3
+mermelada 4
+pan 5
+papa 6
+zanahoria 7
+naranja 8
+verdura 9

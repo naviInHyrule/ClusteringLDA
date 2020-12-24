@@ -1,0 +1,14 @@
+#
+# The class path
+#
+
+CLASSPATH="./libs/commons-collections-3.2.1.jar:./libs/commons-cli-1.2.jar:./libs/commons-configuration-1.9.jar:./libs/commons-lang-2.6.jar:./libs/commons-logging-1.1.1.jar:./libs/commons-math3-3.2.jar:./libs/mallet-deps.jar:./libs/mallet.jar:./build"
+
+root="./results/clustering/"
+testDocs="./data/data.txt"
+voc="./data/vocabulary.txt"
+Phi="./results/train/Phi_1500.txt"
+alphaPrior="./results/train/alpha_1500.txt"
+
+
+java -cp ${CLASSPATH} HCwithPerpExe -root ${root} -testDocs ${testDocs} -voc ${voc} -Phi ${Phi} -alphaPrior ${alphaPrior}
